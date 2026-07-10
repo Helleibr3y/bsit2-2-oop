@@ -14,11 +14,11 @@ public class Main {
         do {
 
             System.out.println("\n===== LIBRARY INFORMATION SYSTEM =====");
-            System.out.println("1. Add a book");
+            System.out.println("1. Add book");
             System.out.println("2. List all books");
-            System.out.println("3. Borrow a book");
-            System.out.println("4. Return a book");
-            System.out.println("5. Search a book");
+            System.out.println("3. Borrow book");
+            System.out.println("4. Return book");
+            System.out.println("5. Search book");
             System.out.println("0. Exit");
 
             System.out.print("Enter your choice: ");
